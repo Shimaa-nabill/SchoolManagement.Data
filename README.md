@@ -23,10 +23,16 @@ Role-based authentication: Different permissions for each user type.
 
 Full CRUD for all main entities.
 
-Pagination for large data lists(student)
+Pagination for large data lists(student).
 
 In-memory caching to improve performance  (courses).
 
 DTOs & AutoMapper to separate API models from database entities.
 
-JWT Authentication to secure the API (JWT Bearer Token)
+JWT Authentication to secure the API (JWT Bearer Token).
+
+Generic Base Entity and Data Integrity.
+
+Generic Repository & Unit of Work Pattern.
+
+D I Pattern  
